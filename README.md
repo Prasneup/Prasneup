@@ -89,4 +89,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFDC80,30:4facfe,75:00f2fe,100:03a9f4&height=120&section=footer"/>
 </div>
 
+<p align="center">
+  <img src="https://media.tenor.com/oG8VA0xuYb8AAAAi/pacman-eating.gif" alt="Thanks for visiting! 👻🍬" />
+</p>
+
+
 
