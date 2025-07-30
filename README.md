@@ -95,9 +95,10 @@
 
   <h3>✨ Thanks for visiting! ✨</h3>
 
-  <img src="https://media.tenor.com/oG8VA0xuYb8AAAAi/pacman-eating.gif" alt="Thanks for visiting! 👻🍬" width="300"/>
+  <img src="https://media.tenor.com/oG8VA0xuYb8AAAAi/pacman-eating.gif" alt="Pacman eating" width="300"/>
 
 </div>
+
 
 ---
 
