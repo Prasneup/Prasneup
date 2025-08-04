@@ -1,106 +1,81 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFDC80,30:4facfe,75:00f2fe,100:03a9f4&height=200&section=header&text=Hi%20👋,%20I'm%20Prasanna%20Neupane&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Prasanna%20Neupane&fontSize=36&fontColor=00ffcc&animation=twinkling" />
 </div>
 
+<!-- TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Passionate+Backend+Developer+from+Nepal+🇳🇵;Love+Writing+Clean+and+Eloquent+Code;" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/1eZUSqoYCwAAAAM/developer.gif" alt="coding" width="400"/>
-</div>
-
----
-
-## ⚡ Fun fact: **The first computer bug was an actual moth.** 🐛
-
----
-
-## 📫 Connect with me:
-<div align="center">
-  <a href="mailto:prasannaneupane723@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Nepal;Clean+Code+%7C+Scalable+Design+%7C+Java+Lover" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🛠️ Languages and Tools:
+<!-- CODING GIF -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer at computer" />
+
+## 🧠 About Me
+
+- 🎯 Passionate backend developer from Nepal.  
+- 💡 Enjoys solving real-world problems with logic and structure.  
+- ⚙️ Skilled in Java, MySQL, and backend engineering principles.  
+- 🚀 Building something new every day and pushing it to GitHub.
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,docker" alt="languages" />
-</div>
-
-<div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,mysql,docker,html,css,git,github,vscode" />
 </div>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasneup&show_icons=true&locale=en&theme=radical" alt="prasneup" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasneup&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasneup&theme=radical" alt="prasneup" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasneup&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasneup&show_icons=true&locale=en&layout=compact&theme=radical" alt="prasneup" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasneup&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasneup&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prasneup&theme=darkhub&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📬 Connect With Me
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasneup&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <a href="mailto:prasannaneupane723@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-prasannaneupane723@gmail.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/prasannaneupane723" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasanna%20Neupane-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasneup&label=Profile%20views&color=0e75b6&style=flat" alt="prasneup" />
+  <img src="https://komarev.com/ghpvc/?username=prasneup&label=Profile%20Views&color=0f0f0f&style=flat-square" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFDC80,30:4facfe,75:00f2fe,100:03a9f4&height=120&section=footer"/>
+  <h4><i>Crafting code that lasts. 🧱</i></h4>
 </div>
 
----
-
-<div align="center">
-
-  <h3>✨ Thanks for visiting! ✨</h3>
-
-  <img src="https://media.tenor.com/oG8VA0xuYb8AAAAi/pacman-eating.gif" alt="Pacman eating" width="300"/>
-
-</div>
-
-
----
 
 
 
