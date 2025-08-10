@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <h4><i></i></h4>
+  <h4><i>Thanks for visiting.</i></h4>
 </div>
 
 
