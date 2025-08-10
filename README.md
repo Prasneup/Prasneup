@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <h4><i>Crafting code that lasts. 🧱</i></h4>
+  <h4><i></i></h4>
 </div>
 
 
