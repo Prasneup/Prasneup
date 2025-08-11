@@ -18,7 +18,7 @@
 - 🎯 Passionate backend developer from Nepal.  
 - 💡 Enjoys solving real-world problems with logic and structure.  
 - ⚙️ Skilled in Java, MySQL, and backend engineering principles.  
-- 🚀 Building something new every day and pushing it to GitHub.
+- 🚀 Building something new every day and pushing it to Github.
 
 ---
 
