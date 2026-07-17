@@ -33,15 +33,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasneup&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=prasneup&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasneup&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prasneup&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasneup&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prasneup&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasneup&theme=darkhub&no-frame=true&title=Stars,Commits,Repositories,Followers" />
+  <img src="https://github-profile-trophy.shion.dev/?username=prasneup&theme=darkhub&no-frame=true&title=Stars,Commits,Repositories,Followers" />
 </div>
 
 ---
