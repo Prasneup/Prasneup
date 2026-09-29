@@ -1,6 +1,5 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Prasanna%20Neupane&fontSize=36&fontColor=00ffcc&animation=twinkling" />
+<div align="center">  <img src="https://capsule-render.vercel.app/api?
 </div>
 
 <!-- TYPING TEXT -->
