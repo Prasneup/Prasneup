@@ -36,25 +36,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.shion.dev/?username=prasneup&theme=darkhub&no-frame=true&title=Stars,Commits,Repositories,Followers" />
-</div>
 
----
 
-## 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:prasannaneupane723@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-prasannaneupane723@gmail.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/prasannaneupane723" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prasanna%20Neupane-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
-  </a>
-</div>
 
 ---
 
