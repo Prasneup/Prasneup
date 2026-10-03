@@ -1,10 +1,4 @@
-<!-- HEADER -->
-<div align="center">  <img src="https://capsule-render.vercel.app/api?
-</div>
 
-<!-- TYPING TEXT -->
-
----
 
 <!-- CODING GIF -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer at computer" />
